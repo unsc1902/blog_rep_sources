@@ -4,9 +4,9 @@
 
 # Site
 title: The Kindom Under The Mountain
-subtitle:  thinkNothing&悟·空
+subtitle: thinkNothing&悟·空
 author: Girard.Zhang
-language: zh-CN
+language: zh-Hans
 timezone: 
 
 # custom Site settings
@@ -14,7 +14,7 @@ timezone:
 SEOTitle: Griard.Zhang's blog 
 header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: zty999666@outlook.com
-description: "张天阳在 Github 上的个人博客"
+description: "逢人不说人间事，便是人间无事人"
 keyword: # seo key words
 
 favicon: # your favicon png
@@ -24,7 +24,7 @@ favicon: # your favicon png
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://unsc1902.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year:month:day/:title/
 permalink_defaults:
 
 # SNS settings
@@ -96,8 +96,8 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: 
+tag_map: 
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
