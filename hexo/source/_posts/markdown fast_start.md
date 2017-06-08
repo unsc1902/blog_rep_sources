@@ -1,6 +1,6 @@
 ---
 title: markdown fast_start
-date: 2017-04-28 11:30:10
+date: 2017-04-8 11:30:10
 tags: 语言&语法
 categories: 工具&效率
 ---
