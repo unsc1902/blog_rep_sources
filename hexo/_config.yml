@@ -39,6 +39,11 @@ linkedin_username:
 # Build settings
 anchorjs: false                        # if you want to customize anchor. check out line:181 of `post.html`
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # Disqus settings 
 disqus_username: 
