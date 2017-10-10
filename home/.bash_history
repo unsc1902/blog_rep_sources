@@ -33,3 +33,7 @@ hexo new page "categories"
 npm install hexo-generator-sitemap --save
 npm install hexo-generator-search --save
 exit
+npm install hexo-wordcount --save
+npm install hexo-generator-searchdb --save
+npm install hexo-generator-feed --save
+exit
